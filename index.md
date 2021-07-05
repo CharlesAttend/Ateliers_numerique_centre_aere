@@ -1,6 +1,6 @@
 # Ateliers numériques dans les centres aérés de Sambre Avesnois
 
-> *Ce programme est destiné à évoluer d'ici début juillet. Il représente une ébauche pour montrer l'avancement du projet avec les idées me venant au fur et à mesure. **N'hésitez pas à me soumettre vos retours par mail** : charles.vin@outlook.fr*
+> *Ce programme est destiné à évoluer d'ici début juillet. Il représente une ébauche pour montrer l'avancement du projet avec les idées me venant au fur et à mesure. **N'hésitez pas à me soumettre vos retours par mail** : [charles.vin@outlook.fr](mailto:charles.vin@outlook.fr)*
 
 ## Déroulement général
 La première semaine se passe à Saint-du-Nord, la deuxième à Cartignies et la troisième à Solre-le-Château. 
@@ -23,20 +23,20 @@ Réalisation d'un  film court en stop-motion. Pâte à modeler, figurines, etc.
 
 ### Atelier d'animation
 - A partir des tablettes graphiques, animer les dessins des enfants : 
-    - https://www.01net.com/telecharger/windows/Multimedia/animation_2d_et_3d/fiches/145682.html 
-    - Vidéo faite à Maubeuge : https://www.youtube.com/watch?v=NiUu138qtFs
-- Réalité Augmentée, donner vie aux dessins avec une appli mobile. https://www.youtube.com/watch?v=B09Mj6tLrx8 => Probablement trop ennuyeux pour les adolescents ? 
+    - [https://www.01net.com/telecharger/windows/Multimedia/animation_2d_et_3d/fiches/145682.html](https://www.01net.com/telecharger/windows/Multimedia/animation_2d_et_3d/fiches/145682.html) 
+    - Vidéo faite à Maubeuge : [https://www.youtube.com/watch?v=NiUu138qtFs](https://www.youtube.com/watch?v=NiUu138qtFs)
+- Réalité Augmentée, donner vie aux dessins avec une appli mobile. [https://www.youtube.com/watch?v=B09Mj6tLrx8](https://www.youtube.com/watch?v=B09Mj6tLrx8) => Probablement trop ennuyeux pour les adolescents ? 
 
 ## Autres ateliers
 ### Atelier code
 Scratch, assez classique, montre les bases de l'algorithmique d'une manière ludique aux enfants. 
-Autre site de code : https://declick.net/
+Autre site de code : [https://declick.net/](https://declick.net/)
 Probablement des centaines d'autres possibilités
 > Mon cousin, qui est en 5ème, joue *naturellement* beaucoup à `Fornite` et m'avais parlé qu'il aimerait bien un peu savoir ce qui se passe  *behind the scene* avec du code. 
 
 ### Crayons d'impression 3D 
 L'utilisation de crayons d'impression 3D pour reproduire des formes, des dessins qui pourront être choisis par les enfants ou présélectionné et ramené à leur domicile. Par exemple une voiture, des lunettes, un cœur avec le nom de leurs parents, ... 
-![Voiture imprimé par un crayon](crayon3D_voiture.png)
+![Voiture imprimé par un crayon](./crayon3D_voiture.png)
 
 ### Carte micro-bit
 - Un projet ludique pour les 6-7 ans
