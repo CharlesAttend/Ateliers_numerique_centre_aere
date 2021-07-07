@@ -1,7 +1,8 @@
-Ateliers numériques dans les centres aérés de Sambre Avesnois
+# Ateliers numériques dans les centres aérés de Sambre Avesnois
 
 > *Ce programme est destiné à évoluer d'ici début juillet. Il représente une ébauche pour montrer l'avancement du projet avec les idées me venant au fur et à mesure. **N'hésitez pas à me soumettre vos retours par mail** : [charles.vin@outlook.fr](mailto:charles.vin@outlook.fr)*
 
+- [Ateliers numériques dans les centres aérés de Sambre Avesnois](#ateliers-numériques-dans-les-centres-aérés-de-sambre-avesnois)
 - [1. Déroulement général](#1-déroulement-général)
 - [2. Activité proposée](#2-activité-proposée)
     - [2.1. Drone](#21-drone)
@@ -23,20 +24,20 @@ Ateliers numériques dans les centres aérés de Sambre Avesnois
         - [2.6.1. Matériel](#261-matériel)
         - [2.6.2. Description](#262-description)
         - [2.6.3. Déroulement](#263-déroulement)
-    - [Modélisation et impression 3D](#modélisation-et-impression-3d)
-        - [Matériel](#matériel)
-        - [Description](#description)
-    - [2.7. Atelier code](#27-atelier-code)
-        - [Matériel](#matériel-1)
-        - [Description](#description-1)
-        - [Déroulement](#déroulement)
-    - [2.8. Carte micro:bit](#28-carte-microbit)
-        - [Matériel](#matériel-2)
-        - [Description](#description-2)
-        - [Déroulement](#déroulement-1)
-- [Le planning de la semaine pour Saint-Du-Nord](#le-planning-de-la-semaine-pour-saint-du-nord)
-- [Le planning de la semaine pour Cartignies](#le-planning-de-la-semaine-pour-cartignies)
-- [Le planning de la semaine pour Solre-le-Château](#le-planning-de-la-semaine-pour-solre-le-château)
+    - [2.7. Modélisation et impression 3D](#27-modélisation-et-impression-3d)
+        - [2.7.1. Matériel](#271-matériel)
+        - [2.7.2. Description](#272-description)
+    - [2.8. Atelier code](#28-atelier-code)
+        - [2.8.1. Matériel](#281-matériel)
+        - [2.8.2. Description](#282-description)
+        - [2.8.3. Déroulement](#283-déroulement)
+    - [2.9. Carte micro:bit](#29-carte-microbit)
+        - [2.9.1. Matériel](#291-matériel)
+        - [2.9.2. Description](#292-description)
+        - [2.9.3. Déroulement](#293-déroulement)
+- [3. Le planning de la semaine pour Saint-Du-Nord](#3-le-planning-de-la-semaine-pour-saint-du-nord)
+- [4. Le planning de la semaine pour Cartignies](#4-le-planning-de-la-semaine-pour-cartignies)
+- [5. Le planning de la semaine pour Solre-le-Château](#5-le-planning-de-la-semaine-pour-solre-le-château)
 
 # 1. Déroulement général
 La première semaine se passe à Saint-du-Nord, la deuxième à Cartignies et la troisième à Solre-le-Château.
@@ -139,48 +140,48 @@ Par exemple une voiture, des lunettes, un cœur avec le nom de leurs parents, ..
 1. Choix d’un dessin à reproduire (sur internet puis impression, ou parmi ceux proposé)
 2. Faire le dessin en décalquant
 
-## Modélisation et impression 3D
-### Matériel
+## 2.7. Modélisation et impression 3D
+### 2.7.1. Matériel
 - Ordinateur
-### Description
-Modélisation en 3D sur [TinkerCad](https://www.tinkercad.com/) d'un quelquonque petit objet puis impression pour lui donner plus tard dans la semaine.
+### 2.7.2. Description
+Modélisation en 3D sur [TinkerCad](https://www.tinkercad.com/) d'un quelconque petit objet puis impression pour lui donner plus tard dans la semaine.
 Exemple d'objet : Porte-clés, dès, lunettes, pièce d'échec, bagues, toupies, objet Fortnite.
 
 
 
-## 2.7. Atelier code
-### Matériel
+## 2.8. Atelier code
+### 2.8.1. Matériel
 - Smartphone
 
-### Description
+### 2.8.2. Description
 Scratch, assez classique, montre les bases de l'algorithmique d'une manière ludique aux enfants. 
 Autre site de code : [https://declick.net/](https://declick.net/)
 Probablement des centaines d'autres possibilités
 > Mon cousin, qui est en 5ème, joue *naturellement* beaucoup à `Fortnite` et m'avais parlé qu'il aimerait bien un peu savoir ce qui se passe *behind the scene* avec du code. 
 
-### Déroulement
+### 2.8.3. Déroulement
 1. 
 
-## 2.8. Carte micro:bit
-### Matériel
+## 2.9. Carte micro:bit
+### 2.9.1. Matériel
 - Carte micro:bit
 - Smartphone ou ordinateur
 
-### Description
+### 2.9.2. Description
 Je ne suis pas encore sur du projet ici. L'idée est qu'avec ce que les enfants ont appris avec l'activité précédente, il programme la carte pour faire un peu ceux qu'ils veulent. Il y a plein de tutoriel et de mini projet sur le [site web](https://makecode.microbit.org/).
 Je n'ai jamais eu de carte comme celle-ci en main, je ne connais pas encore les possibilités.
 
-### Déroulement
+### 2.9.3. Déroulement
 1.
 
 
 
-# Le planning de la semaine pour Saint-Du-Nord
+# 3. Le planning de la semaine pour Saint-Du-Nord
 
 
-# Le planning de la semaine pour Cartignies
+# 4. Le planning de la semaine pour Cartignies
 
 
-# Le planning de la semaine pour Solre-le-Château
+# 5. Le planning de la semaine pour Solre-le-Château
 
 
