@@ -2,25 +2,26 @@ Ateliers numériques dans les centres aérés de Sambre Avesnois
 
 > *Ce programme est destiné à évoluer d'ici début juillet. Il représente une ébauche pour montrer l'avancement du projet avec les idées me venant au fur et à mesure. **N'hésitez pas à me soumettre vos retours par mail** : [charles.vin@outlook.fr](mailto:charles.vin@outlook.fr)*
 
-# Déroulement général
-La première semaine se passe à Saint-du-Nord, la deuxième à Cartignies et la troisième à Solre-le-Château. 
+# 1. Déroulement général
+La première semaine se passe à Saint-du-Nord, la deuxième à Cartignies et la troisième à Solre-le-Château.
+Animation en groupe de 10-15 enfants le matin, puis l'après-midi avec quelques enfants sur un projet particulié. 
 
-# Activité proposé
+# 2. Activité proposé
 
 
 
-## Drone 
-### Matériel
+## 2.1. Drone 
+### 2.1.1. Matériel
 - 2 petits drones d'intérieur
 - 2 plus grand d'extérieur
 
-### Description 
+### 2.1.2. Description 
 Inhitiation au pilotage des drones 
 
 
 
 
-## Atelier vidéo
+## 2.2. Atelier vidéo
 > <span style="color:red;"> Ce petit paragraphe fait je pense partie de l'ancien projet. Cependant je le laisse car un atelier 'Montage vidéo' est dans le "cahier des charges". </span>
  
 Cette activité vidéo aura pour finalité de faire participer chaque centre à la réalisation d'un mini-film autour du thème du pays des merveilles. Elle suivra la trame scénaristique inspirée de `Game of Thrones` mais avec plus de féerique :
@@ -36,30 +37,30 @@ L'utilisation de `Fond vert` et de la technique du `Stop motion` sera abordé.
 
 
 
-## Stop Motion 
-### Matériel :
+## 2.3. Stop Motion 
+### 2.3.1. Matériel :
 - Smartphone
 - Pâte à modeler
 - Figurines
 - Tout ce qui peut être utile pour de l'animation
 
-### Description
+### 2.3.2. Description
 Réalisation d'un film court en stop-motion.
 
 
 
-## Dessin animé 
-### Matériel
+## 2.4. Dessin animé 
+### 2.4.1. Matériel
 - De quoi dessiner
 - 3 tablettes graphique
 - 3 PC
 
-### Description
+### 2.4.2. Description
 A partir des tablettes graphiques, animer les dessins des enfants : 
 - [TupiTube](https://www.01net.com/telecharger/windows/Multimedia/animation_2d_et_3d/fiches/145682.html) 
 - [Vidéo faite à Maubeuge](https://www.youtube.com/watch?v=NiUu138qtFs)
 
-### Déroulement
+### 2.4.3. Déroulement
 1. Les enfants imagine leurs projets, ce qu'ils vont desiner.
 2. Ils choisisent un arrière plan. Dessine leurs personnages sur papier
 3. Puis on passe aux tablettes graphiques et au logiciel TupiTube
@@ -68,16 +69,16 @@ A partir des tablettes graphiques, animer les dessins des enfants :
 
 
 
-## Dessins en Réalité augmenté
-### Matériel
+## 2.5. Dessins en Réalité augmenté
+### 2.5.1. Matériel
 - Smartphone
 - Internet
 
-### Description
+### 2.5.2. Description
  [Vidéo de démonstration](https://www.youtube.com/watch?v=B09Mj6tLrx8) 
 **=> Probablement trop ennuyeux pour les adolescents ??**
 
-### Déroulement
+### 2.5.3. Déroulement
 1. Chosir un dessin parmis ceux disponible
 2. Le colorier
 3. L'animer dans l'appli mobile
@@ -85,39 +86,46 @@ A partir des tablettes graphiques, animer les dessins des enfants :
 
 
 
-### Crayons d'impression 3D 
-#### Matériel
+## 2.6. Crayons d'impression 3D 
+### 2.6.1. Matériel
 - Crayons d'impression 3D 
 - Bobine de couleur
 - *Une imprimante*
 
-#### Description
+### 2.6.2. Description
 L'utilisation de crayons d'impression 3D pour reproduire des formes, des dessins. Ces dessins pourront être choisis par les enfants (si dispo d'une imprimante) ou choisis parmis ceux que je ramène. 
 Dessiner avec le crayon sera alors très facile car il suffira de décalquer. Ils pourrons ramener leurs oeuvres à leur domicile. 
 ![Voiture imprimé par un crayon](./crayon3D_voiture.png)
 Par exemple une voiture, des lunettes, un coeur avec le nom de leurs parents, ... 
 
-#### Déroulement
+### 2.6.3. Déroulement
 1. Choix d'un dessins à reproduire (sur internet puis impression, ou parmis ceux proposé)
 2. Faire le dessins en décalquant
 
 
 
 
-## Atelier code
+## 2.7. Atelier code
+### Matériel
+- Smartphone
+
+### Description
 Scratch, assez classique, montre les bases de l'algorithmique d'une manière ludique aux enfants. 
 Autre site de code : [https://declick.net/](https://declick.net/)
 Probablement des centaines d'autres possibilités
 > Mon cousin, qui est en 5ème, joue *naturellement* beaucoup à `Fornite` et m'avais parlé qu'il aimerait bien un peu savoir ce qui se passe  *behind the scene* avec du code. 
 
+### Déroulement
+1. 
 
-### Carte micro-bit
-- Un projet ludique pour les 6-7 ans
-- Un autre plus poussé pour les plus grand
+## 2.8. Carte micro-bit
+### Matériel
+- Carte Micro-Bit
+- Smartphone ou ordinateur
 
-`Explication de code et des branchements`
-Peut-être un kit de voiture télécommandée où ils peuvent faire le branchement puis la contrôler, on peut y placer une caméra également et la brancher sur un petit casque VR.
-> Ici, pour décider des projets, il faut que je voie en fonction du matériel disponible à la 3CA.
+### Description
+Je ne suis pas encore sur du projet ici. L'idée est qu'avec ce que les enfants ont appris avec l'initiation à l'algorithmie, il programme la carte pour faire un peu ceux qu'ils veulent. 
+Je n'ai jamais eu de carte comme celle-ci en main, je ne connait pas encore les possibilités.
 
-![image](https://www.rcteam.fr/86388-thickbox_default/t2m-lunette-fpv-sv-mask-30-t422503.jpg)
-
+### Déroulement
+1. 
