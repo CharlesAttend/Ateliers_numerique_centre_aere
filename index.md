@@ -3,7 +3,7 @@ Ateliers numériques dans les centres aérés de Sambre Avesnois
 > *Ce programme est destiné à évoluer d'ici début juillet. Il représente une ébauche pour montrer l'avancement du projet avec les idées me venant au fur et à mesure. **N'hésitez pas à me soumettre vos retours par mail** : [charles.vin@outlook.fr](mailto:charles.vin@outlook.fr)*
 
 - [1. Déroulement général](#1-déroulement-général)
-- [2. Activité proposé](#2-activité-proposé)
+- [2. Activité proposée](#2-activité-proposée)
     - [2.1. Drone](#21-drone)
         - [2.1.1. Matériel](#211-matériel)
         - [2.1.2. Description](#212-description)
@@ -34,16 +34,16 @@ Ateliers numériques dans les centres aérés de Sambre Avesnois
         - [Matériel](#matériel-2)
         - [Description](#description-2)
         - [Déroulement](#déroulement-1)
-- [Le planing de la semaine pour Saint-Du-Nord](#le-planing-de-la-semaine-pour-saint-du-nord)
-- [Le planing de la semaine pour Cartignies](#le-planing-de-la-semaine-pour-cartignies)
-- [Le planing de la semaine pour Solre-le-Chateau](#le-planing-de-la-semaine-pour-solre-le-chateau)
+- [Le planning de la semaine pour Saint-Du-Nord](#le-planning-de-la-semaine-pour-saint-du-nord)
+- [Le planning de la semaine pour Cartignies](#le-planning-de-la-semaine-pour-cartignies)
+- [Le planning de la semaine pour Solre-le-Château](#le-planning-de-la-semaine-pour-solre-le-château)
 
 # 1. Déroulement général
 La première semaine se passe à Saint-du-Nord, la deuxième à Cartignies et la troisième à Solre-le-Château.
-Animation en groupe de 10-15 enfants le matin, puis l'après-midi avec quelques enfants sur un projet particulié. 
-**Je pense avoir besoin d'une connection internet, d'un projecteur pour afficher facilement les consignes, et eventuellement d'une imprimante pour les activités dessins**
+Animation en groupe de 10-15 enfants le matin, puis l'après-midi avec quelques enfants sur un projet particulier. 
+**Je pense avoir besoin d'une connexion internet, d'un projecteur pour afficher facilement les consignes, et éventuellement d'une imprimante pour les activités dessins**
 
-# 2. Activité proposé
+# 2. Activité proposée
 
 
 
@@ -53,7 +53,7 @@ Animation en groupe de 10-15 enfants le matin, puis l'après-midi avec quelques 
 - 2 plus grand d'extérieur
 
 ### 2.1.2. Description 
-Inhitiation au pilotage des drones 
+Initiation au pilotage des drones 
 
 
 
@@ -98,9 +98,9 @@ A partir des tablettes graphiques, animer les dessins des enfants :
 - [Vidéo faite à Maubeuge](https://www.youtube.com/watch?v=NiUu138qtFs)
 
 ### 2.4.3. Déroulement
-1. Les enfants imagine leurs projets, ce qu'ils vont desiner.
-2. Ils choisisent un arrière plan. Dessine leurs personnages sur papier
-3. Puis on passe aux tablettes graphiques et au logiciel TupiTube
+1. Les enfants imagine leurs projets, ce qu'ils vont dessiner.
+2. Ils choisissent un arrière-plan. Dessine leurs personnages sur papier
+3. Puis on passe aux tablettes graphiques et au logiciel Tupi Tube
 4. Création d'un projet dans le logiciel en 12fps
 
 
@@ -116,7 +116,7 @@ A partir des tablettes graphiques, animer les dessins des enfants :
 **=> Probablement trop ennuyeux pour les adolescents ??**
 
 ### 2.5.3. Déroulement
-1. Chosir un dessin parmis ceux disponible
+1. Choisir un dessin parmi ceux disponible
 2. Le colorier
 3. L'animer dans l'appli mobile
 
@@ -130,21 +130,21 @@ A partir des tablettes graphiques, animer les dessins des enfants :
 - *Une imprimante*
 
 ### 2.6.2. Description
-L'utilisation de crayons d'impression 3D pour reproduire des formes, des dessins. Ces dessins pourront être choisis par les enfants (si dispo d'une imprimante) ou choisis parmis ceux que je ramène. 
-Dessiner avec le crayon sera alors très facile car il suffira de décalquer. Ils pourrons ramener leurs oeuvres à leur domicile. 
+L'utilisation de crayons d'impression 3D pour reproduire des formes, des dessins. Ces dessins pourront être choisis par les enfants (si dispo d'une imprimante) ou choisis parmi ceux que je ramène. 
+Dessiner avec le crayon sera alors très facile car il suffira de décalquer. Ils pourront ramener leurs œuvres à leur domicile. 
 ![Voiture imprimé par un crayon](./crayon3D_voiture.png)
-Par exemple une voiture, des lunettes, un coeur avec le nom de leurs parents, ... 
+Par exemple une voiture, des lunettes, un cœur avec le nom de leurs parents, ... 
 
 ### 2.6.3. Déroulement
-1. Choix d'un dessins à reproduire (sur internet puis impression, ou parmis ceux proposé)
-2. Faire le dessins en décalquant
+1. Choix d’un dessin à reproduire (sur internet puis impression, ou parmi ceux proposé)
+2. Faire le dessin en décalquant
 
 ## Modélisation et impression 3D
 ### Matériel
 - Ordinateur
 ### Description
 Modélisation en 3D sur [TinkerCad](https://www.tinkercad.com/) d'un quelquonque petit objet puis impression pour lui donner plus tard dans la semaine.
-Exemple d'ojet : Porte clés, dès, lunettes, pièce d'échec, bagues, toupis, objet Fornite.
+Exemple d'objet : Porte-clés, dès, lunettes, pièce d'échec, bagues, toupies, objet Fortnite.
 
 
 
@@ -156,31 +156,31 @@ Exemple d'ojet : Porte clés, dès, lunettes, pièce d'échec, bagues, toupis, o
 Scratch, assez classique, montre les bases de l'algorithmique d'une manière ludique aux enfants. 
 Autre site de code : [https://declick.net/](https://declick.net/)
 Probablement des centaines d'autres possibilités
-> Mon cousin, qui est en 5ème, joue *naturellement* beaucoup à `Fornite` et m'avais parlé qu'il aimerait bien un peu savoir ce qui se passe  *behind the scene* avec du code. 
+> Mon cousin, qui est en 5ème, joue *naturellement* beaucoup à `Fortnite` et m'avais parlé qu'il aimerait bien un peu savoir ce qui se passe *behind the scene* avec du code. 
 
 ### Déroulement
 1. 
 
 ## 2.8. Carte micro:bit
 ### Matériel
-- Carte bicro:bit
+- Carte micro:bit
 - Smartphone ou ordinateur
 
 ### Description
 Je ne suis pas encore sur du projet ici. L'idée est qu'avec ce que les enfants ont appris avec l'activité précédente, il programme la carte pour faire un peu ceux qu'ils veulent. Il y a plein de tutoriel et de mini projet sur le [site web](https://makecode.microbit.org/).
-Je n'ai jamais eu de carte comme celle-ci en main, je ne connait pas encore les possibilités.
+Je n'ai jamais eu de carte comme celle-ci en main, je ne connais pas encore les possibilités.
 
 ### Déroulement
 1.
 
 
 
-# Le planing de la semaine pour Saint-Du-Nord
+# Le planning de la semaine pour Saint-Du-Nord
 
 
-# Le planing de la semaine pour Cartignies
+# Le planning de la semaine pour Cartignies
 
 
-# Le planing de la semaine pour Solre-le-Chateau
+# Le planning de la semaine pour Solre-le-Château
 
 
