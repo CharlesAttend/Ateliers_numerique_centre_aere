@@ -22,10 +22,21 @@ L'utilisation de `Fond vert` et de la technique du `Stop motion` sera abordé.
 Réalisation d'un  film court en stop-motion. Pâte à modeler, figurines, etc. 
 
 ### Atelier d'animation
-- A partir des tablettes graphiques, animer les dessins des enfants : 
-    - [https://www.01net.com/telecharger/windows/Multimedia/animation_2d_et_3d/fiches/145682.html](https://www.01net.com/telecharger/windows/Multimedia/animation_2d_et_3d/fiches/145682.html) 
-    - Vidéo faite à Maubeuge : [https://www.youtube.com/watch?v=NiUu138qtFs](https://www.youtube.com/watch?v=NiUu138qtFs)
-- Réalité Augmentée, donner vie aux dessins avec une appli mobile. [https://www.youtube.com/watch?v=B09Mj6tLrx8](https://www.youtube.com/watch?v=B09Mj6tLrx8) => Probablement trop ennuyeux pour les adolescents ? 
+#### Tablettes Graphiques
+A partir des tablettes graphiques, animer les dessins des enfants : 
+- [https://www.01net.com/telecharger/windows/Multimedia/animation_2d_et_3d/fiches/145682.html](https://www.01net.com/telecharger/windows/Multimedia/animation_2d_et_3d/fiches/145682.html) 
+- Vidéo faite à Maubeuge : [https://www.youtube.com/watch?v=NiUu138qtFs](https://www.youtube.com/watch?v=NiUu138qtFs)
+
+1. Les enfants imagine leurs projets, ce qu'ils vont desiner.
+2. Ils choisisent un arrière plan. Dessine leurs personnages sur papier
+3. Puis on passe aux tablettes graphiques et au logiciel TupiTube
+4. Création d'un projet dans le logiciel en 12fps 
+
+#### Dessins en Réalité augmenté
+Réalité Augmentée, donner vie aux dessins avec une appli mobile. [https://www.youtube.com/watch?v=B09Mj6tLrx8](https://www.youtube.com/watch?v=B09Mj6tLrx8) => Probablement trop ennuyeux pour les adolescents ? 
+1. Chosir un dessin
+2. Le colorier
+3. L'animer dans l'appli mobile
 
 ## Autres ateliers
 ### Atelier code
