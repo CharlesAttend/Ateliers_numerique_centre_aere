@@ -2,9 +2,46 @@ Ateliers numériques dans les centres aérés de Sambre Avesnois
 
 > *Ce programme est destiné à évoluer d'ici début juillet. Il représente une ébauche pour montrer l'avancement du projet avec les idées me venant au fur et à mesure. **N'hésitez pas à me soumettre vos retours par mail** : [charles.vin@outlook.fr](mailto:charles.vin@outlook.fr)*
 
+- [1. Déroulement général](#1-déroulement-général)
+- [2. Activité proposé](#2-activité-proposé)
+    - [2.1. Drone](#21-drone)
+        - [2.1.1. Matériel](#211-matériel)
+        - [2.1.2. Description](#212-description)
+    - [2.2. Atelier vidéo](#22-atelier-vidéo)
+    - [2.3. Stop Motion](#23-stop-motion)
+        - [2.3.1. Matériel :](#231-matériel-)
+        - [2.3.2. Description](#232-description)
+    - [2.4. Dessin animé](#24-dessin-animé)
+        - [2.4.1. Matériel](#241-matériel)
+        - [2.4.2. Description](#242-description)
+        - [2.4.3. Déroulement](#243-déroulement)
+    - [2.5. Dessins en Réalité augmenté](#25-dessins-en-réalité-augmenté)
+        - [2.5.1. Matériel](#251-matériel)
+        - [2.5.2. Description](#252-description)
+        - [2.5.3. Déroulement](#253-déroulement)
+    - [2.6. Crayons d'impression 3D](#26-crayons-dimpression-3d)
+        - [2.6.1. Matériel](#261-matériel)
+        - [2.6.2. Description](#262-description)
+        - [2.6.3. Déroulement](#263-déroulement)
+    - [Modélisation et impression 3D](#modélisation-et-impression-3d)
+        - [Matériel](#matériel)
+        - [Description](#description)
+    - [2.7. Atelier code](#27-atelier-code)
+        - [Matériel](#matériel-1)
+        - [Description](#description-1)
+        - [Déroulement](#déroulement)
+    - [2.8. Carte micro:bit](#28-carte-microbit)
+        - [Matériel](#matériel-2)
+        - [Description](#description-2)
+        - [Déroulement](#déroulement-1)
+- [Le planing de la semaine pour Saint-Du-Nord](#le-planing-de-la-semaine-pour-saint-du-nord)
+- [Le planing de la semaine pour Cartignies](#le-planing-de-la-semaine-pour-cartignies)
+- [Le planing de la semaine pour Solre-le-Chateau](#le-planing-de-la-semaine-pour-solre-le-chateau)
+
 # 1. Déroulement général
 La première semaine se passe à Saint-du-Nord, la deuxième à Cartignies et la troisième à Solre-le-Château.
 Animation en groupe de 10-15 enfants le matin, puis l'après-midi avec quelques enfants sur un projet particulié. 
+**Je pense avoir besoin d'une connection internet, d'un projecteur pour afficher facilement les consignes, et eventuellement d'une imprimante pour les activités dessins**
 
 # 2. Activité proposé
 
@@ -102,6 +139,12 @@ Par exemple une voiture, des lunettes, un coeur avec le nom de leurs parents, ..
 1. Choix d'un dessins à reproduire (sur internet puis impression, ou parmis ceux proposé)
 2. Faire le dessins en décalquant
 
+## Modélisation et impression 3D
+### Matériel
+- Ordinateur
+### Description
+Modélisation en 3D sur [TinkerCad](https://www.tinkercad.com/) d'un quelquonque petit objet puis impression pour lui donner plus tard dans la semaine.
+Exemple d'ojet : Porte clés, dès, lunettes, pièce d'échec, bagues, toupis, objet Fornite.
 
 
 
@@ -118,14 +161,26 @@ Probablement des centaines d'autres possibilités
 ### Déroulement
 1. 
 
-## 2.8. Carte micro-bit
+## 2.8. Carte micro:bit
 ### Matériel
-- Carte Micro-Bit
+- Carte bicro:bit
 - Smartphone ou ordinateur
 
 ### Description
-Je ne suis pas encore sur du projet ici. L'idée est qu'avec ce que les enfants ont appris avec l'initiation à l'algorithmie, il programme la carte pour faire un peu ceux qu'ils veulent. 
+Je ne suis pas encore sur du projet ici. L'idée est qu'avec ce que les enfants ont appris avec l'activité précédente, il programme la carte pour faire un peu ceux qu'ils veulent. Il y a plein de tutoriel et de mini projet sur le [site web](https://makecode.microbit.org/).
 Je n'ai jamais eu de carte comme celle-ci en main, je ne connait pas encore les possibilités.
 
 ### Déroulement
-1. 
+1.
+
+
+
+# Le planing de la semaine pour Saint-Du-Nord
+
+
+# Le planing de la semaine pour Cartignies
+
+
+# Le planing de la semaine pour Solre-le-Chateau
+
+
