@@ -21,7 +21,7 @@ Cordialement.
 
 
 
-Voir les affiche de la cité des géométries https://www.youtube.com/watch?v=quDAlIWc2OU
+Voir les affiches de la cité des géométries https://www.youtube.com/watch?v=quDAlIWc2OU
 
 Matériel : 
 Ordinateur pour les carte micro bit ? 
@@ -29,3 +29,7 @@ Combien de carte ?
 Fil pour crayon de plusieurs couleurs ?
 
 Je bosse les samedi du coup ? 
+
+
+Saint du nord : 
+Attention matos, 3 tablette, 4 drone, x micro:bit
