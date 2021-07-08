@@ -35,9 +35,7 @@
         - [2.9.1. Matériel](#291-matériel)
         - [2.9.2. Description](#292-description)
         - [2.9.3. Déroulement](#293-déroulement)
-- [3. Le planning de la semaine pour Saint-Du-Nord](#3-le-planning-de-la-semaine-pour-saint-du-nord)
-- [4. Le planning de la semaine pour Cartignies](#4-le-planning-de-la-semaine-pour-cartignies)
-- [5. Le planning de la semaine pour Solre-le-Château](#5-le-planning-de-la-semaine-pour-solre-le-château)
+- [3. Le planning de la semaine](#3-le-planning-de-la-semaine)
 
 # 1. Déroulement général
 La première semaine se passe à Saint-du-Nord, la deuxième à Cartignies et la troisième à Solre-le-Château.
@@ -176,12 +174,7 @@ Je n'ai jamais eu de carte comme celle-ci en main, je ne connais pas encore les 
 
 
 
-# 3. Le planning de la semaine pour Saint-Du-Nord
-
-
-# 4. Le planning de la semaine pour Cartignies
-
-
-# 5. Le planning de la semaine pour Solre-le-Château
+# 3. Le planning de la semaine
+[Voir le Google Calendar](https://calendar.google.com/calendar/u/0?cid=a2RoZGszbzFyNTE3MW1nanFla3ZvZ2YwbmtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
 
