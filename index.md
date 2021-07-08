@@ -177,4 +177,5 @@ Je n'ai jamais eu de carte comme celle-ci en main, je ne connais pas encore les 
 # 3. Le planning de la semaine
 [Voir le Google Calendar](https://calendar.google.com/calendar/u/0?cid=a2RoZGszbzFyNTE3MW1nanFla3ZvZ2YwbmtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23F09300&amp;ctz=Europe%2FParis&amp;src=a2RoZGszbzFyNTE3MW1nanFla3ZvZ2YwbmtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23E4C441&amp;mode=WEEK&amp;showPrint=1&amp;showCalendars=0&amp;showTz=1&amp;title" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
