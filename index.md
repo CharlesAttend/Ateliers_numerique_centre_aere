@@ -114,8 +114,7 @@ A partir des tablettes graphiques, animer les dessins des enfants :
 - 3 PC
 
 ### 2.5.2. Description
-Pourquoi pas un pictionary en ligne. Ou un dessin en multijoueur.
-
+Pourquoi pas un [pictionary en ligne](https://skribbl.io/). Ou un dessin en multijoueur.
 
 
 
@@ -194,7 +193,8 @@ L'idée est qu'avec ce que les enfants ont appris avec l'activité précédente,
 
 
 # 3. Le planning de la semaine
-**On peut beaucoup faire varier les activités en fonction des préférences de chacun.** Pourquoi pas proposer un menu et ils choisisent entre eux en fonction des contraintes.
+**On peut beaucoup faire varier les activités en fonction des préférences de chacun.** Pourquoi pas proposer un menu et ils choisisent entre eux en fonction des contraintes. <br>
+Si une activité est trop longue on peut facilement l'écourter avec les drones.
 
 [Voir le Google Calendar](https://calendar.google.com/calendar/embed?src=kdhdk3o1r5171mgjqekvogf0nk%40group.calendar.google.com&ctz=Europe%2FParis)
 
